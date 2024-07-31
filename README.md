@@ -52,7 +52,8 @@ Portfolio Value at Risk (VaR) using the Variance-Covariance method at 95.00% con
 9.05%
 $294.05
 ```
-img/varcov.png
+![image](https://github.com/user-attachments/assets/5e15c1d8-e6fc-4501-8857-d114a7b09b26)
+
 
 ```
 Portfolio Historical Value at Risk (VaR) at 95.00% confidence level is:
