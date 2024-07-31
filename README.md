@@ -64,7 +64,7 @@ $241.66
 
 ```
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the AGPL-3.0 license. See the LICENSE file for details.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
