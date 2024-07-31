@@ -63,9 +63,9 @@ $245.40
 Portfolio Monte Carlo Value at Risk (VaR) at 95.00% confidence level is:
 7.44%
 $241.66
+```
 ![image](https://github.com/user-attachments/assets/935d3eb9-d0c5-4071-92c9-1fd44303e492)
 
-```
 ## License
 This project is licensed under the AGPL-3.0 license. See the LICENSE file for details.
 
