@@ -1,4 +1,4 @@
-# Value at Risk Portfolio
+# Portfolio Value at Risk 
 
 This repository contains a Python script for calculating and visualizing a stock portfolio's Value at Risk (VaR) using three different methods: Variance-Covariance, Historical Simulation, and Monte Carlo Simulation.
 
@@ -51,15 +51,17 @@ Enter the confidence level (e.g., 0.95 for 95%): .95
 Portfolio Value at Risk (VaR) using the Variance-Covariance method at 95.00% confidence level is:
 9.05%
 $294.05
+```
 img/varcov.png
 
-
+```
 Portfolio Historical Value at Risk (VaR) at 95.00% confidence level is:
 7.55%
 $245.40
+```
 ![image](https://github.com/user-attachments/assets/3b54f244-3894-41dc-b16d-144a479deed7)
 
-
+```
 Portfolio Monte Carlo Value at Risk (VaR) at 95.00% confidence level is:
 7.44%
 $241.66
