@@ -51,16 +51,19 @@ Enter the confidence level (e.g., 0.95 for 95%): .95
 Portfolio Value at Risk (VaR) using the Variance-Covariance method at 95.00% confidence level is:
 9.05%
 $294.05
+![image](https://github.com/user-attachments/assets/f1cfd3b2-dd93-4538-b475-3de9e6c5d1c3)
 
 
 Portfolio Historical Value at Risk (VaR) at 95.00% confidence level is:
 7.55%
 $245.40
+![image](https://github.com/user-attachments/assets/3b54f244-3894-41dc-b16d-144a479deed7)
 
 
 Portfolio Monte Carlo Value at Risk (VaR) at 95.00% confidence level is:
 7.44%
 $241.66
+![image](https://github.com/user-attachments/assets/6cff3213-b588-4c7d-8dc7-aae73b78b6b2)
 
 ```
 ## License
